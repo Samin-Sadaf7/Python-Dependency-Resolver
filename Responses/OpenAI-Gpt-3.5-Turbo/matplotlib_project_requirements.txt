@@ -1,0 +1,7 @@
+```plaintext
+matplotlib==3.4.0
+numpy==1.21.0
+```
+
+Explanation:
+- The specified version `numpy==2.0.0` does not exist as of October 2023. The latest stable release of numpy is `1.21.0`, which is compatible with `matplotlib==3.4.0`. Therefore, the numpy version is adjusted to `1.21.0` to resolve the dependency conflict.

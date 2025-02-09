@@ -1,0 +1,6 @@
+```plaintext
+tensorflow==2.5.0
+keras==2.5.0
+```
+
+Note: `tensorflow` version 2.5.0 includes `keras` as a submodule, so using a separate `keras` package version 3.0.0 may cause conflicts. It's recommended to use the `keras` version that is compatible with the specified `tensorflow` version. In this case, `keras==2.5.0` is compatible with `tensorflow==2.5.0`.
