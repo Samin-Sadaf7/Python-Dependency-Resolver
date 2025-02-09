@@ -1,0 +1,4 @@
+```plaintext
+requests==2.26.0
+urllib3==2.3.0
+```

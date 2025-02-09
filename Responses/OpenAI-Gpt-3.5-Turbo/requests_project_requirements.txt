@@ -1,6 +1,0 @@
-```
-requests==2.26.0
-urllib3==1.26.15
-```
-
-The `requests` package version 2.26.0 requires `urllib3` to be less than version 2.0.0. Therefore, I've adjusted the `urllib3` version to 1.26.15 to resolve the dependency conflict.

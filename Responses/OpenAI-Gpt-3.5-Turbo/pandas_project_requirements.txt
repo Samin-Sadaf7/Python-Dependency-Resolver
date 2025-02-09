@@ -1,6 +1,0 @@
-```
-pandas==1.3.0
-numpy==1.21.0
-```
-
-Explanation: The specified version of `numpy==2.0.0` does not exist as of October 2023. The latest stable version of numpy compatible with `pandas==1.3.0` is `numpy==1.21.0`.

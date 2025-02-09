@@ -1,0 +1,4 @@
+```plaintext
+tensorflow==2.5.0
+keras==3.8.0
+```
